@@ -18,8 +18,6 @@ I'm a software developer from Colombia focused on creating interactive experienc
 - 🌐 Modern Frontend Experiences
 - 🎮 Unity Games & Simulations
 - 🎨 3D Assets and Environments
-- 🐍 Python Tools & Utilities
-- 🤖 AI Projects and Experiments
 
 ### Current Focus
 
