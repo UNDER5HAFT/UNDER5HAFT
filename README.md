@@ -43,11 +43,3 @@ Desarrollo de herramientas internas para automatizar procesos administrativos y 
 - Mejorando mis habilidades en arquitectura de software.
 - Construyendo proyectos con Flutter y Unity.
 
-## 📫 Contacto
-
-- LinkedIn: TU_LINK
-- Email: TU_CORREO
-
----
-
-> "Siempre hay una forma de automatizarlo."
