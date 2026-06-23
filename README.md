@@ -84,26 +84,6 @@ I'm a software developer from Colombia focused on creating interactive experienc
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=UNDER5HAFT&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UNDER5HAFT&layout=compact&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=UNDER5HAFT&theme=tokyonight"/>
-
-</div>
-
----
-
 # 🌱 Currently Learning
 
 - Advanced Flutter Architecture
