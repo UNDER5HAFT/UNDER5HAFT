@@ -10,8 +10,6 @@ Hi 👋, I'm Mateo Salazar
 
 # 🚀 About Me
 
-<img align="right" width="280" src="./assets/profile.png"/>
-
 I'm a software developer from Colombia focused on creating interactive experiences through mobile apps, web technologies, game development and 3D art.
 
 ### What I enjoy building
