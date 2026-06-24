@@ -8,16 +8,16 @@ Hi 👋, I'm Mateo Salazar
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I'm a software developer from Colombia focused on creating interactive experiences through mobile apps, web technologies, game development and 3D art.
 
 ### What I enjoy building
 
-- 📱 Mobile Applications
-- 🌐 Modern Frontend Experiences
-- 🎮 Unity Games & Simulations
-- 🎨 3D Assets and Environments
+- Mobile Applications
+- Modern Frontend Experiences
+- Unity Games & Simulations
+- 3D Assets and Environments
 
 ### Current Focus
 
@@ -29,24 +29,24 @@ I'm a software developer from Colombia focused on creating interactive experienc
 
 ### Fun Facts
 
-- 🐧 Linux user (CachyOS)
-- 🎮 Racing and simulation games
-- 🔧 I enjoy building complete products from scratch
+- Linux user (CachyOS)
+- Racing and simulation games
+- I enjoy building complete products from scratch
 
 <br clear="right"/>
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-## 📱 Mobile
+## Mobile
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
 ---
 
-## 🌐 Frontend
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -54,7 +54,7 @@ I'm a software developer from Colombia focused on creating interactive experienc
 
 ---
 
-## ⚙️ Backend
+## Backend
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -69,13 +69,13 @@ I'm a software developer from Colombia focused on creating interactive experienc
 
 ---
 
-## 🎨 3D & Design
+## 3D & Design
 
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
 
 ---
 
-## 🧰 Tools
+## Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -84,7 +84,7 @@ I'm a software developer from Colombia focused on creating interactive experienc
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Advanced Flutter Architecture
 - AI Agents
@@ -94,7 +94,7 @@ I'm a software developer from Colombia focused on creating interactive experienc
 
 ---
 
-# 📫 Connect With Me
+# Connect With Me
 
 <a href="https://linkedin.com/in/mateosalazarserrano">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
