@@ -25,13 +25,6 @@ I'm a software developer from Colombia focused on creating interactive experienc
 - Unity Systems Programming
 - 3D Modeling with Blender
 - Frontend Technologies
-- AI Agents
-
-### Fun Facts
-
-- Linux user (CachyOS)
-- Racing and simulation games
-- I enjoy building complete products from scratch
 
 <br clear="right"/>
 
